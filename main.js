@@ -1,7 +1,7 @@
 
-import * as THREE from 'three';
+import * as THREE from 'threee';
 
-import Stats from 'three/addons/libs/stats.module.js';
+import Stats from 'threee/addons/libs/stats.module.js';
 
 let stats;
 let camera, scene, raycaster, renderer;
